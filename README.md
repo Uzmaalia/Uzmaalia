@@ -8,7 +8,9 @@
 
 # 💫 About Me
 
-👩🏻‍💻 Currently working on Java full stack skills<br>🔎 Looking to collaborate on SaaS <br>🌱 Learning Data Structures and Algorithms<br>💭 Ask me about tech-startups, development
+👩🏻‍💻 Currently working on Java full stack skills<br>
+<!--🔎 Looking to collaborate on SaaS-->
+<br>🌱 Learning Data Structures and Algorithms<br>💭 Ask me about tech-startups, development
 
 </div>
 
