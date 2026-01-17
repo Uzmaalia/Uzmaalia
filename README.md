@@ -61,11 +61,6 @@ Git • GitHub • Docker (Basics) • Postman • Apache Tomcat • Vercel
 
 <div align="center">
 
-# GitHub Activity
-
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Uzmaalia&hide_border=true)
-
 
 </div>
 
